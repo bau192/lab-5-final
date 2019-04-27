@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab 5 oficial</string>
+    <string name="nombre">Nombre</string>
+    <string name="c_digo">Código</string>
+    <string name="code_of_product">code of product</string>
+    <string name="guardar">guardar</string>
+    <string name="button">Button</string>
+</resources>
